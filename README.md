@@ -28,9 +28,9 @@ MARCA A TERCEIRA CAIXINHA E APERTA OK
 
 9° cd /sdcard
 
-10° git clone https://github.com/Srcollinss/SUKUNA-BOT-MD
+10° git clone https://github.com/SrLeozinnnxz/SUKUNA-BOT-MD-
 
-11° cd  /sdcard/SUKUNA-BOT-MD
+11° cd  /sdcard/SUKUNA-BOT-MD-
 
 12° sh start.sh
 
