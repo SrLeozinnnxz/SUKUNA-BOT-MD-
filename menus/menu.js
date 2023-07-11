@@ -6,196 +6,196 @@ ________________________________
 │       ${NomeDoBot}      
 │╚══════◄••❀••►══════╝
 │
-│⏤͟͟͞͞𝗕𝗘𝗠 𝙑𝙄𝙉𝘿𝙊 𝗔𝗢 𝗠𝗘𝗡𝗨
+│⏤͟͟͞͞𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾 𝙰𝙾 𝙼𝙴𝙽𝚄
 │________________________________
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│        ✨ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ✨
+│     ✨ 𝚂𝚃𝙸𝙲𝙺𝙴𝚁 ✨
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
 │╭╯
-│❀ ${prefix}Attp 『 TXT』
+│✘ ${prefix}𝚊𝚝𝚝𝚙 『𝚝𝚡𝚝』
 │
-│❀ ${prefix}Ttp 『 TXT 』
+│✘ ${prefix}𝚝𝚝𝚙 『𝚝𝚡𝚝』
 │
-│❀ ${prefix}Sticker 
+│✘ ${prefix}𝚜𝚝𝚒𝚌𝚔𝚎𝚛 
 │
-│❀ ${prefix}Toimg 
+│✘ ${prefix}𝚝𝚘𝚒𝚖𝚐 
 │
-│❀ ${prefix}Togif 
+│✘ ${prefix}𝚝𝚘𝚐𝚒𝚏 
 │
-│❀ ${prefix}Emoji 『🚀』
+│✘ ${prefix}𝚎𝚖𝚘𝚓𝚒 『🚀』
 │
-│❀ ${prefix}Emojimix 🥺+🤑
+│✘ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡 🥺+🤑
 │ ╭╯
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│         🎵 𝗣𝗟𝗔𝗬𝗦 🎵
+│       🎵 𝙿𝙻𝙰𝚈𝚂 🎵
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│❀│ ${prefix}Play 『 NOME 』 
+│✘│ ${prefix}𝚙𝚕𝚊𝚢 『𝙽𝙾𝙼𝙴』 
 │
-│❀ ${prefix}play2『 LINK 』 
+│✘ ${prefix}𝚙𝚕𝚊𝚢𝟸『𝚕𝚒𝚗𝚔』 
 │
-│❀ ${prefix}Ytmp3 『 LINK 』 
+│✘ ${prefix}𝚢𝚝𝚖𝚙𝟹 『𝚕𝚒𝚗𝚔』 
 │
-│❀ ${prefix}Tiktok 『 LINK 』 
+│✘ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔 『𝚕𝚒𝚗𝚔』 
 │
-│❀ ${prefix}Instadw 『 LINK 』 
+│✘ ${prefix}𝚒𝚗𝚜𝚝𝚊𝚍𝚠 『𝚕𝚒𝚗𝚔』 
 │
-│❀ ${prefix}Twitter 『 LINK 』 
+│✘ ${prefix}𝚝𝚠𝚒𝚝𝚝𝚎𝚛 『𝚕𝚒𝚗𝚔』 
 │ ╭╯
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│        🗳️ 𝗚𝗣 𝗔𝗗𝗠 🗳️
+│      🗳️ 𝙶𝙿 𝙰𝙳𝙼 🗳️
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│❀╭╯
-│❀ ${prefix}kick 『 @ 』
+│╭╯
+│✘ ${prefix}𝚔𝚒𝚌𝚔 『@』
 │
-│❀│${prefix}ban 『 Marca 』
+│✘│${prefix}𝚋𝚊𝚗 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}promover『 @ 』
+│✘ ${prefix}𝚙𝚛𝚘𝚖𝚘𝚟𝚎𝚛『@』
 │
-│❀ ${prefix}rebaixar『 @ 』
+│✘ ${prefix}𝚛𝚎𝚋𝚊𝚒𝚡𝚊𝚛『@』
 │
-│❀ ${prefix}totag
+│✘ ${prefix}𝚝𝚘𝚝𝚊𝚐
 │
-│❀ ${prefix}grupo 
+│✘ ${prefix}𝚐𝚛𝚞𝚙𝚘 
 │
-│❀ ${prefix}nomegp『 Nome 』
+│✘ ${prefix}𝚗𝚘𝚖𝚎𝚐𝚙『𝚗𝚘𝚖𝚎』
 │
-│❀ ${prefix}atividades『 DO-GP 』
+│✘ ${prefix}𝚊𝚝𝚒𝚟𝚒𝚍𝚊𝚍𝚎𝚜『𝚍𝚘-𝚐𝚙』
 │
-│❀ ${prefix}nomegp『 Nome 』
+│✘ ${prefix}𝚑𝚒𝚍𝚎𝚝𝚊𝚐 『𝚖𝚜𝚐』
 │
-│❀ ${prefix}hidetag 『MSG』
+│✘ ${prefix}𝚋𝚎𝚖𝚟𝚒𝚗𝚍𝚘 『✅/ ❌』
 │
-│❀ ${prefix}bemvindo 『 ✅/ ❌ 』
+│✘ ${prefix}𝚊𝚗𝚊𝚐𝚛𝚊𝚖𝚊 『𝟷/𝟶』
 │
-│❀ ${prefix}anagrama 『 1 / 0  』
+│✘ ${prefix}𝚊𝚗𝚝𝚒𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚘   『✅/ ❌』
 │
-│❀ ${prefix}antidocumento   『 ✅/ ❌ 』
+│✘ ${prefix}𝚕𝚎𝚟𝚎𝚕𝚒𝚗𝚐 『𝟷/𝟶』 
 │
-│❀ ${prefix}leveling 『 1 / 0  
+│✘ ${prefix}𝚏𝚘𝚝𝚘𝚐𝚙『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}fotogp『 Marca 』
+│✘ ${prefix}𝚍𝚎𝚜𝚌𝚐𝚙 『𝚝𝚡𝚝』
 │
-│❀ ${prefix}descgp『 TXT 』
+│✘ ${prefix}𝚜𝚝𝚊𝚝𝚞𝚜
 │
-│❀ ${prefix}status
+│✘ ${prefix}𝚊𝚗𝚝𝚒𝚌𝚘𝚗𝚝𝚊𝚝𝚘 『✅/ ❌』
+
+│✘ ${prefix}𝚊𝚗𝚝𝚒𝚕𝚒𝚗𝚔  『✅/ ❌』
 │
-│❀ ${prefix}anticontato   『 ✅/ ❌ 』
+│✘ ${prefix}𝚊𝚗𝚝𝚒𝚏𝚊𝚔𝚎   『✅/ ❌』
 │
-│❀ ${prefix}antilink   『 ✅/ ❌ 』
+│✘ ${prefix}𝚕𝚒𝚗𝚔𝚐𝚙
 │
-│❀ ${prefix}antifake   『 ✅/ ❌ 』
+│✘ ${prefix}𝚌𝚛𝚒𝚊𝚛𝚝𝚊𝚋𝚎𝚕𝚊
 │
-│❀ ${prefix}linkgp
+│✘ ${prefix}𝚝𝚊𝚋𝚎𝚕𝚊𝚐𝚙
 │
-│❀ ${prefix}criartabela
-│
-│❀ ${prefix}tabelagp
-│
-│❀ ${prefix}grupoinfo
+│✘ ${prefix}𝚐𝚛𝚞𝚙𝚘𝚒𝚗𝚏𝚘
 │ ╭╯
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│          🎮 𝗝𝗢𝗚𝗢𝗦  🎮
+│       🎮 𝙹𝙾𝙶𝙾𝚂 🎮
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│❀╭╯
-│❀ ${prefix}dado
+│╭╯
+│✘ ${prefix}𝚍𝚊𝚍𝚘
 │
-│❀ ${prefix}Ppt 『 PEDRA/PAPEL/TESOURA 』 
+│✘ ${prefix}𝚙𝚙𝚝 『𝚙𝚎𝚍𝚛𝚊/𝚙𝚊𝚙𝚎𝚕/𝚝𝚎𝚜𝚘𝚞𝚛𝚊』 
 │
-│❀ ${prefix}Jogodavelha 『 @MARCAR 』 
+│✘ ${prefix}𝚓𝚘𝚐𝚘𝚍𝚊𝚟𝚎𝚕𝚑𝚊 『@!𝚖𝚊𝚛𝚌𝚊𝚛』 
 │
-│❀ ${prefix}Ttt 『 JOGO-DA-VELHA 』 
+│✘ ${prefix}𝚝𝚝𝚝 『 𝚓𝚘𝚐𝚘-𝚍𝚊-𝚟𝚎𝚕𝚑𝚊 』 
 │
-│❀ ${prefix}Cassino
+│✘ ${prefix}𝚌𝚊𝚜𝚜𝚒𝚗𝚘
 │
-│❀ ${prefix}Quizanime 1 / 0
+│✘ ${prefix}𝚚𝚞𝚒𝚣𝚊𝚗𝚒𝚖𝚎 𝟷/𝟶
 │
-│❀ ${prefix}Quizanimais 1 / 0
+│✘ ${prefix}𝚚𝚞𝚒𝚣𝚊𝚗𝚒𝚖𝚊𝚒𝚜 𝟷/𝟶
 │
-│❀ ${prefix}Anagrama 1 / 0
+│✘ ${prefix}𝚊𝚗𝚊𝚐𝚛𝚊𝚖𝚊 𝟷/𝟶
 │ ╭╯
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│          🙂 𝙇𝙀𝙑𝙀𝙇  🙂
+        🙂 𝙻𝙴𝚅𝙴𝙻 🙂
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│❀╭╯
-│❀ ${prefix}Leveling 1
+│╭╯
+│✘ ${prefix}𝚕𝚎𝚟𝚎𝚕𝚒𝚗𝚐 𝟷
 │
-│❀ ${prefix}Level
+│✘ ${prefix}𝚕𝚎𝚟𝚎𝚕
 │
-│❀ ${prefix}Ranklevel
+│✘ ${prefix}𝚛𝚊𝚗𝚔𝚕𝚎𝚟𝚎𝚕
 │ ╭╯
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│   ☺️ 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾̧𝘼̃𝙊 ☺️
+│   ☺️ 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙰𝙾 ☺️
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│❀╭╯
-│❀ ${prefix}Idiomas 
+│╭╯
+│✘ ${prefix}𝚒𝚍𝚒𝚘𝚖𝚊𝚜 
 │
-│❀ ${prefix}Bug 『 QUESTIONE 』 
+│✘ ${prefix}𝚋𝚞𝚐 『𝚚𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚎』 
 │
-│❀ ${prefix}Sugestao 『 DICA 』 
+│✘ ${prefix}𝚜𝚞𝚐𝚎𝚜𝚝𝚊𝚘 『𝚍𝚒𝚌𝚊』 
 │
-│❀ ${prefix}Avalie 『 O-QUAO-BOM 』 
+│✘ ${prefix}𝚊𝚟𝚊𝚕𝚒𝚎 『𝚘-𝚚𝚞𝚊𝚘-𝚋𝚘𝚖』 
 │
-│❀ ${prefix}Ping 『 VELO 』 
+│✘ ${prefix}𝚙𝚒𝚗𝚐 『𝚟𝚎𝚕𝚘𝚌𝚒𝚍𝚊𝚍𝚎』 
 │
-│❀ ${prefix}Atividade
+│✘ ${prefix}𝚊𝚝𝚒𝚟𝚒𝚍𝚊𝚍𝚎
 │
-│❀ ${prefix}Rankativo
+│✘ ${prefix}𝚛𝚊𝚗𝚔𝚊𝚝𝚒𝚟𝚘
 │
-│❀ ${prefix}Checkativo 『 @MARCAR 』
+│✘ ${prefix}𝚌𝚑𝚎𝚌𝚔𝚊𝚝𝚒𝚟𝚘 『@𝚖𝚊𝚛𝚌𝚊𝚛』
 │
-│❀ ${prefix}Ranklevel 『 DE-TODOS 』 
+│✘ ${prefix}𝚛𝚊𝚗𝚔𝚕𝚎𝚟𝚎𝚕 『𝚍𝚎-𝚝𝚍𝚜』 
 │ ╭╯
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│   ☺️𝗖𝗠𝗗 𝗕𝗔𝗦𝗜𝗖𝗢𝗦☺️
+│  ☺️ 𝙲𝙼𝙳𝚂 𝙱𝙰𝚂𝙸𝙲𝙾𝚂☺️
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│❀╭╯
-│❀ ${prefix}Gtts 『 LINGUAGEM + TEXTO 』
+│╭╯
+│✘ ${prefix}𝚐𝚝𝚝𝚜 『𝚕𝚒𝚗𝚐𝚞𝚊𝚐𝚎𝚖 + 𝚝𝚎𝚡𝚝𝚘』
 │
-│❀ ${prefix}Tagme 
+│✘ ${prefix}𝚝𝚊𝚐𝚖𝚎 
 │
-│❀ ${prefix}Tabela 『 LETRAS 』 
+│✘ ${prefix}𝚝𝚊𝚋𝚎𝚕𝚊 『𝚕𝚎𝚝𝚛𝚊𝚜』 
 │
-│❀ ${prefix}Conselhobiblico
+│✘ ${prefix}𝚌𝚘𝚗𝚜𝚎𝚕𝚑𝚘𝚋𝚒𝚋𝚕𝚒𝚌𝚘
 │
-│❀ ${prefix}Simi 『 FALE-ALGO 』  
+│✘ ${prefix}𝚜𝚒𝚖𝚒 『𝚏𝚊𝚕𝚎-𝚊𝚕𝚐𝚘』  
 │
-│❀ ${prefix}Perfil
+│✘ ${prefix}𝚙𝚎𝚛𝚏𝚒𝚕
 │
-│❀ ${prefix}Frases
+│✘ ${prefix}𝚏𝚛𝚊𝚜𝚎𝚍
 │
-│❀ ${prefix}Calcular 『 1 + 1 』
+│✘ ${prefix}𝚌𝚊𝚕𝚌𝚞𝚕𝚊𝚛 『𝟷+𝟷』
 │
-│❀ ${prefix}Fazernick 『 NICK 』
+│✘ ${prefix}𝚏𝚊𝚣𝚎𝚛𝚗𝚒𝚌𝚔 『𝚗𝚒𝚌𝚔』
 │ ╭╯
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│    🗣️𝗩𝗜𝗗𝗘𝗢 - 𝗔𝗨𝗗𝗜𝗢🗣️
+│  🗣️ 𝚅𝙸𝙳𝙴𝙾 - 𝙰𝚄𝙳𝙸𝙾 🗣️
 ├─━─━─━─ ⊱❀⊰ ─━─━─✿
-│❀╭╯
-│❀ ${prefix}Videolento 『 marca 』
+│╭╯
+│✘ ${prefix}𝚟𝚒𝚍𝚎𝚘𝚕𝚎𝚗𝚝𝚘 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Videorapido 『 marca 』
+│✘ ${prefix}𝚟𝚒𝚍𝚎𝚘𝚛𝚊𝚙𝚒𝚍𝚘 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Videocontrario 『 marca 』
+│✘ ${prefix}𝚟𝚒𝚍𝚎𝚘𝚌𝚘𝚗𝚝𝚛𝚊𝚛𝚒𝚘 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Audiolento 『 marca 』
+│✘ ${prefix}𝚊𝚞𝚍𝚒𝚘𝚕𝚎𝚗𝚝𝚘 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Audiorapido 『 marca 』
+│✘ ${prefix}𝚊𝚞𝚍𝚒𝚘𝚛𝚊𝚙𝚒𝚍𝚘 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Grave 『 marca 』
+│✘ ${prefix}𝚐𝚛𝚊𝚟𝚎 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Grave2 『 marca 』
+│✘ ${prefix}𝚐𝚛𝚊𝚟𝚎𝟸 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Esquilo 『 marca 』
+│✘ ${prefix}𝚎𝚜𝚚𝚞𝚒𝚕𝚘 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Estourar 『 marca 』
+│✘ ${prefix}𝚎𝚜𝚝𝚘𝚞𝚛𝚊𝚛 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Bass 『 marca 』
+│✘ ${prefix}𝚋𝚊𝚜𝚜 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Bass2 『 marca 』
+│✘ ${prefix}𝚋𝚊𝚜𝚜𝟸 『𝚖𝚊𝚛𝚌𝚊』
 │
-│❀ ${prefix}Vozmenino 『 marca 』
+│✘ ${prefix}𝚟𝚘𝚣𝚖𝚎𝚗𝚒𝚗𝚘 『𝚖𝚊𝚛𝚌𝚊』
 │╭╯
 ╰─━─━─━─ ⊱❀⊰ ─━─━─✿
+ ᝰ໋᳝݊♞𝐓𝐑𝚯𝐏Δ 𝞣𝞝𝞒𝞒𝞝𝞛𝞡𝞣𝞡♘࿆⟅
+      @𝚕𝚎𝚘𝚣𝚒𝚗𝚗𝚗.𝚘𝚙𝚡
 `
 }
 
