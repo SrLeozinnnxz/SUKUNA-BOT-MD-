@@ -2,148 +2,147 @@ const menulogos = (prefix) => {
   
   return`
 ◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
-          Plaquinhas 
+          ⚜️ 𝙿𝙻𝙰𝚀𝚄𝙸𝙽𝙷𝙰𝚂 ⚜️
 ◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
 
-│⏣➣ ${prefix}Plaq
+↓✘ ${prefix}𝚙𝚕𝚊𝚚
 
-│⏣➣ ${prefix}Plaq2
+↓✘ ${prefix}𝚙𝚕𝚊𝚚𝟸
 
-│⏣➣ ${prefix}Plaq3
+↓✘ ${prefix}𝚙𝚕𝚊𝚚𝟹
 
-│⏣➣ ${prefix}Plaq4
+↓✘ ${prefix}𝚙𝚕𝚊𝚚𝟺
 
-│⏣➣ ${prefix}Plaq5
-
-◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
-        Logos De 2 Texto
-◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
-
-│⏣➣ ${prefix}Comporn (txt/txt) 
-
-│⏣➣ ${prefix}Glitch2 (txt/txt)
-
-│⏣➣ ${prefix}Glitch3 (txt/txt)
-
-│⏣➣ ${prefix}Grafity (txt-txt)
-
-│⏣➣ ${prefix}Space (txt/txt)
-
-│⏣➣ ${prefix}Marvel (txt/txt)
-
-│⏣➣ ${prefix}Stone (txt/txt)
-
-│⏣➣ ${prefix}Steel (txt/txt)
+↓✘ ${prefix}𝚙𝚕𝚊𝚚𝟻
 
 ◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
+       ✴️ 𝙻𝙾𝙶𝙾𝚂 𝙳𝙴 𝟸 𝚃𝙴𝚇𝚃𝙾 ✴️
+◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
 
-     logos De 1 Texto
+↓✘ ${prefix}𝚌𝚘𝚖𝚙𝚘𝚛𝚗 (𝚝𝚡𝚝/𝚝𝚡𝚝) 
 
+↓✘ ${prefix}𝚐𝚕𝚒𝚝𝚌𝚑 (𝚝𝚡𝚝/𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}3DGold (txt)
+↓✘ ${prefix}𝚐𝚕𝚒𝚝𝚌𝚑𝟹 (𝚝𝚡𝚝/𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}placaloli (txt)
+↓✘ ${prefix}𝚐𝚛𝚊𝚏𝚒𝚝𝚢 (𝚝𝚡𝚝/𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}pornhub (txt)
+↓✘ ${prefix}𝚜𝚙𝚊𝚌𝚎 (𝚝𝚡𝚝/𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}escudo (txt)
+↓✘ ${prefix}𝚖𝚊𝚛𝚟𝚎𝚕 (𝚝𝚡𝚝/𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}transformer (txt)
+↓✘ ${prefix}𝚜𝚝𝚘𝚗𝚎 (𝚝𝚡𝚝/𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}america (txt)
+↓✘ ${prefix}𝚜𝚝𝚎𝚎𝚕 (𝚝𝚡𝚝/𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}demongreen (txt)
+◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
+       💢 𝙻𝙾𝙶𝙾𝚂 𝙳𝙴 𝟷 𝚃𝙴𝚇𝚃𝙾 💢
+◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
 
-│⏣➣ ${prefix}wetglass (txt)    
+↓✘ ${prefix}𝟹𝚍𝚐𝚘𝚕𝚍 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}toxic (txt)     
+↓✘ ${prefix}𝚙𝚕𝚊𝚌𝚊𝚕𝚘𝚕𝚒 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}neon3 (txt)   
+↓✘ ${prefix}𝚙𝚘𝚛𝚗𝚑𝚞𝚋 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}neondevil (txt) 
+↓✘ ${prefix}𝚎𝚜𝚌𝚞𝚍𝚘 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}neongreen (txt)
+↓✘ ${prefix}𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Lava (txt)
+↓✘ ${prefix}𝚊𝚖𝚎𝚛𝚒𝚌𝚊 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Halloween (txt)
+↓✘ ${prefix}𝚍𝚊𝚖𝚘𝚖𝚐𝚛𝚎𝚎𝚖 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Neondevil (txt)
+↓✘ ${prefix}𝚠𝚎𝚝𝚐𝚕𝚊𝚜𝚜 (𝚝𝚡𝚝)    
 
-│⏣➣ ${prefix}DemonFire (txt)
+↓✘ ${prefix}𝚝𝚘𝚡𝚒𝚌 (𝚝𝚡𝚝)     
 
-│⏣➣ ${prefix}DemonGreen (txt)
+↓✘ ${prefix}𝚗𝚎𝚘𝚗𝟹 (𝚝𝚡𝚝)   
 
-│⏣➣ ${prefix}Thunderv2 (txt)
+↓✘ ${prefix}𝚗𝚎𝚘𝚗𝚍𝚎𝚟𝚒𝚕 (𝚝𝚡𝚝) 
 
-│⏣➣ ${prefix}Thunder (txt)
+↓✘ ${prefix}𝚗𝚎𝚘𝚗𝚐𝚛𝚎𝚎𝚗 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Colaq (txt)
+↓✘ ${prefix}𝚕𝚊𝚟𝚊 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Luxury (txt)
+↓✘ ${prefix}𝚑𝚊𝚕𝚕𝚘𝚠𝚎𝚎𝚗 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Berry (txt)
+↓✘ ${prefix}𝚍𝚎𝚖𝚘𝚗𝚏𝚒𝚛𝚎 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Transformer (txt)
+↓✘ ${prefix}𝚍𝚎𝚖𝚘𝚗𝚐𝚛𝚎𝚗 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Matrix (txt)
+↓✘ ${prefix}𝚝𝚑𝚞𝚗𝚍𝚎𝚛𝚟𝟸 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Horror (txt)
+↓✘ ${prefix}𝚝𝚑𝚞𝚗𝚍𝚎𝚛 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Nuvem (txt)
+↓✘ ${prefix}𝚌𝚘𝚕𝚊𝚚 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Neon (txt)
+↓✘ ${prefix}𝚕𝚞𝚡𝚞𝚛𝚢 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Neon1 (txt)
+↓✘ ${prefix}𝚋𝚎𝚛𝚛𝚢 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Neon3d (txt)
+↓✘ ${prefix}𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}NeonGreen (txt)
+↓✘ ${prefix}𝚖𝚊𝚝𝚛𝚒𝚡 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Neon3 (txt)
+↓✘ ${prefix}𝚑𝚘𝚛𝚛𝚘𝚛 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Neve (txt)
+↓✘ ${prefix}𝚗𝚞𝚟𝚎𝚖 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Areia (txt)
+↓✘ ${prefix}𝚗𝚎𝚘𝚗 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Vidro (txt)
+↓✘ ${prefix}𝚗𝚎𝚘𝚗𝟷 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Style (txt)
+↓✘ ${prefix}𝚗𝚎𝚘𝚗𝟹𝚍 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Pink (txt)
+↓✘ ${prefix}𝚗𝚎𝚘𝚗𝚐𝚛𝚎𝚎𝚗 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Carbon (txt)
+↓✘ ${prefix}𝚗𝚎𝚘𝚗𝟹 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Tetalblue (txt)
+↓✘ ${prefix}𝚗𝚎𝚟𝚎 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Toxic (txt)
+↓✘ ${prefix}𝚊𝚛𝚎𝚒𝚊 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Jeans (txt)
+↓✘ ${prefix}𝚟𝚒𝚍𝚛𝚘 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Ossos (txt)
+↓✘ ${prefix}𝚜𝚔𝚢𝚕𝚎 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Asfalto (txt)
+↓✘ ${prefix}𝚙𝚒𝚗𝚔 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Natal (txt)
+↓✘ ${prefix}𝚌𝚊𝚛𝚋𝚘𝚗 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Joker (txt)
+↓✘ ${prefix}𝚝𝚎𝚝𝚊𝚕𝚋𝚕𝚞𝚎 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Blood (txt)
+↓✘ ${prefix}𝚝𝚘𝚡𝚒𝚌 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Break (txt)
+↓✘ ${prefix}𝚓𝚎𝚊𝚗𝚜 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Fiction (txt)
+↓✘ ${prefix}𝚘𝚜𝚜𝚘𝚜 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}3dstone (txt)
+↓✘ ${prefix}𝚊𝚜𝚏𝚊𝚕𝚝𝚘 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Lapis (txt)
+↓✘ ${prefix}𝚗𝚊𝚝𝚊𝚕 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Gelo (txt)
+↓✘ ${prefix}𝚓𝚘𝚔𝚎𝚛 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Rainbow (txt)
+↓✘ ${prefix}𝚋𝚕𝚘𝚘𝚍 (𝚝𝚡𝚝)
 
-│⏣➣ ${prefix}Metalfire (txt)
-◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆`
+↓✘ ${prefix}𝚋𝚛𝚎𝚊𝚔 (𝚝𝚡𝚝)
+
+↓✘ ${prefix}𝚏𝚒𝚌𝚝𝚒𝚘𝚗 (𝚝𝚡𝚝)
+
+↓✘ ${prefix}𝟹𝚍𝚜𝚝𝚘𝚗𝚎 (𝚝𝚡𝚝)
+
+↓✘ ${prefix}𝚕𝚊𝚙𝚒𝚜 (𝚝𝚡𝚝)
+
+↓✘ ${prefix}𝚐𝚎𝚕𝚘 (𝚝𝚡𝚝)
+
+↓✘ ${prefix}𝚛𝚊𝚒𝚗𝚋𝚘𝚠 (𝚝𝚡𝚝)
+
+↓✘ ${prefix}𝚖𝚎𝚝𝚊𝚕𝚏𝚒𝚛𝚎 (𝚝𝚡𝚝)
+◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
+ᝰ໋᳝݊♞𝐓𝐑𝚯𝐏Δ 𝞣𝞝𝞒𝞒𝞝𝞛𝞡𝞣𝞡♘࿆⟅
+      @𝚕𝚎𝚘𝚣𝚒𝚗𝚗𝚗.𝚘𝚙𝚡`
 }
 
 exports.menulogos = menulogos
